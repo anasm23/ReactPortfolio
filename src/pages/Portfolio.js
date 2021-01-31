@@ -15,11 +15,11 @@ const projects = [
     },
     {
         id: 2,
-        title: "Valshop",
-        desc: "Use this webpage to find the best value prices from Google Shopping and Ebay",
-        launch: 'https://nameless-tundra-12465.herokuapp.com/',
-        github: 'https://github.com/anasm23/ValShop',
-        image: "https://github.com/anasm23/UpdatedPortfolio2/blob/main/assests/ScreenShot.png?raw=true"
+        title: "Fitness Tracker",
+        desc: "Using MongoDB and Express routes, the Fitness Tracker app creates a workout dashboard visulaizing progress made from workouts.",
+        launch: 'https://sheltered-citadel-62771.herokuapp.com/exercise',
+        github: 'https://github.com/anasm23/FitnessTracker',
+        image: "https://github.com/anasm23/FitnessTracker/raw/main/assets/gif.gif"
     },
     {
         id: 3,
