@@ -18,13 +18,11 @@ function About() {
                     <Col size="md-8">
                         <h1>Im Muhammad Anas. </h1>
                         <p>I am a full stack developer located in Northern Virginia. I have lived most of my life in NOVA but spent significant time in the Richmond and Norfolk areas.</p>
-                        <p>As a student, I have indulged in Math and Science and spent some time acquiring knowledge in Business.</p>
-                        <p>As a professional, I take great pride in my resourcefulness and Problem Solving. The 5Ws never fails.</p>
-                        <p>In my free time I keep up with sports, mainly basketball. Knicks are back!!!</p>
-                        <p>Besides that I manage to keep myself entertained in many ways. Usually I stay up to date on the newest techonologies, laugh till my sides hurt watching funny videos, or chef up some good eats.</p>
-
+                        <p>As a student, I have indulged in Math and Science and spent some time taking Business courses. I earned my Bachelors of Science from Virginia Commonwealth University. </p>
+                        <p>As a professional, I take great pride in my resourcefulness and Problem Solving. Leveraging my Full Stack Web Development certificate from George Washington University, to pursue a career in coding.</p>
+                        <p>In my free time I keep up with sports, mainly basketball and football.</p>
+                        <p>Otherwise, I keep myself entertained in different ways. Usually I stay up to date on the newest techonologies, laugh till my sides hurt watching funny videos, or hit the gym.</p>
             <p></p>
-        
             <br></br>
         
                 </Col>

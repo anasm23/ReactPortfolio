@@ -46,3 +46,7 @@ code {
 .portfolio{
   background-color: rgb(212, 212, 212);
 }
+
+.nav-item{
+  padding-right: 20px;
+}
