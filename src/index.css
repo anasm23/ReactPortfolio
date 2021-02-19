@@ -50,3 +50,7 @@ code {
 .nav-item{
   padding-right: 20px;
 }
+
+.svg{
+  fill:black;
+}
