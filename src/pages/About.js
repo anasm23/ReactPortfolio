@@ -30,7 +30,7 @@ function About() {
                 <Row>
                     <Col size="md-4">
                     <h3>Take a look at my Resume:</h3>
-                    <p><a href="https://docs.google.com/document/d/1g4mkXaQ4mNd2Kb4721JL-mE50l340YV0BGg-_dG_fOw/edit?usp=sharing">Here</a></p>
+                    <p><a href="https://docs.google.com/document/d/1uBB6gGAe2XbyDUm8PolUBs7BprUQmNbzRCVZi75o3Ns/edit?usp=sharing">Here</a></p>
                     
                         
                     </Col>
