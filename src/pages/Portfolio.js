@@ -39,11 +39,11 @@ const projects = [
     },
     {
         id: 5,
-        title: "NoteTaker",
-        desc: "NoteTaker app makes notetaking easier.",
-        launch: 'https://rocky-citadel-97875.herokuapp.com/',
-        github: 'https://github.com/anasm23/notetaker',
-        image: "https://raw.githubusercontent.com/anasm23/notetaker/main/assets/note.gif"
+        title: "Budget App",
+        desc: "Progressive web application enabling users to manage expenses by adding or subtracting funds, both offline and online.",
+        launch: '​pacific-cove-59943.herokuapp.com',
+        github: 'https://github.com/anasm23/BudgetApp',
+        image: "https://github.com/anasm23/BudgetApp/blob/main/assets/gif.gif?raw=true"
     },
     {
         id: 6,
