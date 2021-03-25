@@ -15,36 +15,43 @@ code {
 .lin{
   color:black;
   font-size: 20px;
+  text-align: center;
 }
 
 .git{
   color: black;
   font-size: 20px;
+  padding-right: 53px;
 }
 
 .eeml{
   color:black;
   font-size: 20px;
+  padding-right: 60px;
 }
 
 .avi{
   height: 5000px;
 }
 
-.pt-5{
-  border: 1px solid grey;
-}
+
 
 .about{
-  background-color: rgb(212, 212, 212);  
+  background-color: rgb(212, 212, 212); 
+  background: url("https://img.wallpapersafari.com/desktop/1920/1080/58/81/SGBTp8.png");
 }
 
 .contact{
   background-color: rgb(212, 212, 212);
+  background: url("https://img.wallpapersafari.com/desktop/1920/1080/58/81/SGBTp8.png");
+  height: 1000px;
+
 }
 
 .portfolio{
   background-color: rgb(212, 212, 212);
+  background: url("https://img.wallpapersafari.com/desktop/1920/1080/58/81/SGBTp8.png");
+  background-position: center;
 }
 
 .nav-item{
