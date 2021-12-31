@@ -15,6 +15,13 @@ function Project(props) {
                         <p class="card-text">{project.desc}</p>
                     </div>
                     <div className="card-footer">
+                    <div className="button-group">
+                                <a href={project.launch} target="_blank" rel="noreferrer"><i
+                                    class="fas fa-link fa-2x float-left"></i></a>
+                                <a href={project.github} target="_blank" rel="noreferrer"><i
+                                    class="fab fa-github fa-2x float-right"></i></a>
+                    </div>
+
                     <div className="justify-content-between align-items-center">
                             <div className="button-group">
                                 <a href={project.launch} target="_blank" rel="noreferrer"><i

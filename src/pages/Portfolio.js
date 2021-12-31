@@ -7,10 +7,10 @@ const projects = [
     {
         id: 1,
         title: "Employee Directory",
-        desc: "Using React, a sample database was created using the RandomUserGenerator API to create an employee database.",
+        desc: "React based application displays an employee database created using the RandomUserGenerator API",
         launch: 'https://enigmatic-island-98485.herokuapp.com/',
         github: 'https://github.com/anasm23/empdirect/tree/master',
-        image: "https://raw.githubusercontent.com/anasm23/EmployeeDirectory/main/empdirect/Assets/ReactApp.gif"
+        image: "https://github.com/anasm23/empdirect/raw/master/Assets/empdirectorygif.gif"
     
     },
     {
@@ -24,18 +24,18 @@ const projects = [
     {
         id: 3,
         title: "Google Books Search",
-        desc: "Google books search is an app used to find any book on google. Use this app to find your next favorite title!",
+        desc: "React based application with functionality to search for titles ",
         launch: 'https://fathomless-falls-28848.herokuapp.com/',
         github: 'https://github.com/anasm23/GoogleBooksSearch',
         image: "https://github.com/anasm23/GoogleBooksSearch/blob/main/assets/Googlebooks.gif?raw=true"
     },
     {
         id: 4,
-        title: "Covid Tracker",
-        desc: "The covid tracker app is used to find Covid statistics such as positive cases, hospitalizations, and more! ",
-        launch: 'https://project2gwu.herokuapp.com/',
-        github: 'https://github.com/anasm23/CovidTracker',
-        image: "https://raw.githubusercontent.com/anasm23/CovidTracker/master/Assets/Screenshot3.PNG"
+        title: "Password Generator",
+        desc: "User generates a random password through a series of prompts. Introduces DOM Method and Loops",
+        launch: 'https://agile-garden-35252.herokuapp.com/',
+        github: 'https://github.com/anasm23/PasswordGenerator',
+        image: "https://github.com/anasm23/PasswordGenerator/blob/main/Assets/PassgenGif.gif?raw=true"
     },
     {
         id: 5,
@@ -67,3 +67,4 @@ function Portfolio() {
 }
 
 export default Portfolio;
+
